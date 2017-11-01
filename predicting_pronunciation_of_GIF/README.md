@@ -1,6 +1,6 @@
 # Predicting the Pronunciation of GIF
 
-For my third Metis project, I built classification models to predict how people pronounced GIF using responses collected from the 2017 StackOverflow Developers Survey. I used scikit-learn to build the classification models and Bokeh to create interactive plots.
+For my third Metis project, I built classification models to predict how people pronounced GIF using responses collected from the 2017 StackOverflow Developers Survey. I used scikit-learn to build the classification models and Bokeh to create interactive plots. You can find my blog post about this project [here](https://ailchau.github.io/pronouncingGIF/).
 
 ### Main contents:
 - [pronunciation_of_GIF.ipynb](pronunciation_of_GIF.ipynb) contains the python code for data wrangling, feature engineering, and model fitting
